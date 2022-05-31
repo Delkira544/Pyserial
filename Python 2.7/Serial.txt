@@ -1,0 +1,3 @@
+f:10 C:11 NOSE:22 Tu:33 LA:44 Chi:55
+f:44 C:43 NOSE:21 Tu:65 LA:87 Chi:66
+Fin
