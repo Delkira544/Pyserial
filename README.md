@@ -10,7 +10,8 @@
      
       
      - ### Python 2.7:
-         - Descragar e Instalar .exe que envio Profesor. [Enlace a Archivo](https://github.com/Crisyostin79/Pyserial/blob/main/PySerial%20Python%202.7.exe)
+         - Descragar .exe que envio Profesor. [Enlace a Archivo](https://github.com/Crisyostin79/Pyserial/blob/main/PySerial%20Python%202.7.exe)
+         - Instala el serial ***ASEGURATE DE INSTALARLO EN EL PYTHON 2.7***
 
 ## Python 2.7 
 
