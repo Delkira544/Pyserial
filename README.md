@@ -10,7 +10,7 @@
      
       
      - ### Python 2.7:
-         - Instalar .exe que envio Profesor Caro. [Enlace a Archivo]()
+         - Instalar .exe que envio Profesor Caro. [Enlace a Archivo](PySerial Python 2.7.exe)
 
 ## Python 2.7 
 
